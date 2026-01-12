@@ -52,7 +52,7 @@ The objective of this project is to create a modern, data-centric UI that simpli
 * **Material Design Icons** – Systematic Iconography
 
 ## Prototype Link
-[Figma Prototype: Click here to view the MyInventory Flow](https://www.figma.com/design/aferRB8v5QU2sPrf3qyNDV/Mi-project?node-id=0-1&p=f&t=rtRneHBsHISgYU2P-0)
+[Figma Prototype: Click here to view the MyInventory Flow]([https://www.figma.com/design/aferRB8v5QU2sPrf3qyNDV/Mi-project?node-id=0-1&p=f&t=rtRneHBsHISgYU2P-0](https://www.figma.com/proto/aferRB8v5QU2sPrf3qyNDV/Mi-project?node-id=10-24&t=MHBdkDf5c7rzgMPT-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A24))
 
 ## Future Enhancements
 * **Barcode/QR Scanner:** Direct camera integration for scanning incoming stock.
